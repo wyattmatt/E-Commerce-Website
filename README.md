@@ -1,14 +1,12 @@
 # E-Commerce Website
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 Welcome to the **E-Commerce Website** project!  
-This is a **frontend-only** e-commerce platform built using **HTML**, **CSS**, **Bootstrap**, and **Tailwind CSS**, featuring a modern and responsive design.
+This is a **frontend-only** e-commerce platform built using **HTML**, **CSS**, **Bootstrap**, and **Tailwind CSS**, featuring a modern and professional design.
 
 ## ✨ Features
 
@@ -16,7 +14,6 @@ This is a **frontend-only** e-commerce platform built using **HTML**, **CSS**, *
 - ❤️ Wishlist system
 - 🏠 Beautiful Homepage
 - 🔐 Sign Up & Log In pages
-- 📱 Fully responsive layout (desktop, tablet, mobile)
 
 ## 🛠 Built With
 
@@ -58,9 +55,14 @@ cd E-Commerce-Website
 
 ## 📸 Screenshots
 
-![Homepage](assets/images/E-Commerce_HomePage.png)
-![Sign Up Page](assets/images/Sign_Up.png)
-![Wishlist Page](assets/images/Wishlist.png)
+- HomePage
+<img src="assets/images/E-Commerce_HomePage.png" width="160px" height="600px" />
+
+- Sign Up
+<img src="assets/images/Sign_Up.png" width="160px" height="160px" />
+
+- Wishlist
+<img src="assets/images/Wishlist.png" width="160px" height="160px" />
 
 ## 🌟 Future Improvements
 
