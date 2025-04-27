@@ -1,0 +1,239 @@
+.text-firebrick {
+  color: #b22222;
+}
+
+.bg-firebrick {
+  background-color: #b22222;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-firebrick {
+  color: #b22222;
+}
+
+.bg-firebrick {
+  background-color: #b22222;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+#e__1551893 {
+  width: 371px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 180px;
+}
+#e__1551891 {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551719 {
+  width: 345px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551720 {
+  width: -Infinitypx;
+  height: 30px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Inter;
+  font-weight: 500;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  line-height: 30px;
+  letter-spacing: 4%;
+  font-size: 36px;
+}
+#e__1551721 {
+  width: -Infinitypx;
+  height: 24px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Poppins;
+  font-weight: 400;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  line-height: 24px;
+  font-size: 16px;
+}
+#e__1551723 {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551727 {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551728 {
+  width: -Infinitypx;
+  height: 24px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Poppins;
+  font-weight: 400;
+  opacity: 0.4;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  line-height: 24px;
+  font-size: 16px;
+}
+#e__1551729 {
+  width: 370px;
+  opacity: 0.5;
+  padding: 0px 0px 0px 0px;
+}
+#e__I15517291061331 {
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 370px;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551730 {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551731 {
+  width: -Infinitypx;
+  height: 24px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Poppins;
+  font-weight: 400;
+  opacity: 0.4;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  line-height: 24px;
+  font-size: 16px;
+}
+#e__1551732 {
+  width: 370px;
+  opacity: 0.5;
+  padding: 0px 0px 0px 0px;
+}
+#e__I15517321061331 {
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 370px;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551892 {
+  width: 350px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 87px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551733 {
+  width: 143px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 0px;
+}
+#e__1551734 {
+  width: 47px;
+  background-color: rgba(219, 68, 68, 1);
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  padding: 16px 48px 16px 48px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+#e__I1551734612874 {
+  width: -Infinitypx;
+  height: 24px;
+  color: rgba(250, 250, 250, 1);
+  font-family: Poppins;
+  font-weight: 500;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  line-height: 24px;
+  font-size: 16px;
+}
+#e__1551867 {
+  width: -Infinitypx;
+  height: 24px;
+  color: rgba(219, 68, 68, 1);
+  font-family: Poppins;
+  font-weight: 400;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+  line-height: 24px;
+  font-size: 16px;
+}
