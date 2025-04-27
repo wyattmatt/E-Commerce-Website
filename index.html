@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="assets/styles.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body style="overflow-x: hidden;">
 
@@ -1266,7 +1267,7 @@
         </div>
         <div style="justify-content: center; align-items: center; gap: 5px; display: flex">
           <div>
-            <select style="background-color: black; color: white; border: none;" name="language" id="language">
+            <select style="background-color: black; color: white; border: none" name="language" id="language">
               <option value="English">English</option>
               <option value="Indonesia">Indonesia</option>
               <option value="Chinese">Chinese</option>
@@ -1287,7 +1288,7 @@
         </div>
         <div style="justify-content: flex-start; align-items: flex-start; gap: 48px; display: flex">
           <div data-header="Header-Home Hover" style="flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
-            <div style="text-align: center; color: black; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word"><a style="color: black; text-decoration: underline; text-underline-offset: 4px;" href="#">Home</a></div>
+            <div style="text-align: center; color: black; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word"><a style="color: black; text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 1px;" href="#">Home</a></div>
           </div>
           <div data-header="Contact" style="width: 66px; height: 24px; position: relative">
             <div style="left: 0px; top: 0px; position: absolute; text-align: center; color: black; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word"><a style="color: black; text-decoration: none;" href="#">Contact</a></div>
@@ -1310,10 +1311,10 @@
         </div>
         <div style="justify-content: center; align-items: center; gap: 16px; display: flex">
           <div data-wishlist="Off" style="width: 32px; height: 32px; position: relative; overflow: hidden">
-            <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAehJREFUSEvV1MvLTWEYBfDfF5kiRK6lMFCSgUsuSWJKMVBymbiM/CtGLhlhQlEMzMj9UlIMFCkRBi6lpAwIe329R+ds+5yz++pL3jqdwbvftZ71POtZI8b5jIwzvn9GsBvbsQq/cAfncako3oH81jJa5ANcwLl6R+oKZuAstvZpXYgmYWWf+yvYj4+d+26CCbiNNfiAg7iHH9iAU5heHgbgAG5hYrk/gWkFYyN+5ttugkM4js9Yhre1KufiamnZZryr3c+v2voEU7AXZ+oEj7AC+3B6jO6KqpO4iajoUfC9yE0lb8ZIsBjP8R6z+hHMa2hPW74leFbeB6dHwX2sxp7ipLag3d8dxjFcxrY6wZFqQEfxqfL78oYhDiOcg6eYXP3vLHvRoyD+jooM+gXWl14OA879zGLPRdW7a9VixmWjp75oGUwckGG1JUnl1xHwDDg7kz1qJOhUkwVbWM3jZXlQ93znfcDvYkEBX1da/Ed1v7CL5CiJK16XzKmTdIOn9/F95tdzBqVpYiHZ00TSDf64ioxNJQH+mtewuA7JDSztUpLsibq05WEZ6Jd+ThhGkHdTC0ny6VVJ09nFcVvwdZDN2hB0SJK0UZITEyTSB4I32XRQMVFyEWnHLnxrsyBtFbTBavzm/yf4DTBuXhlUYzevAAAAAElFTkSuQmCC"/></a>
+            <a href="wishlist.html"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAehJREFUSEvV1MvLTWEYBfDfF5kiRK6lMFCSgUsuSWJKMVBymbiM/CtGLhlhQlEMzMj9UlIMFCkRBi6lpAwIe329R+ds+5yz++pL3jqdwbvftZ71POtZI8b5jIwzvn9GsBvbsQq/cAfncako3oH81jJa5ANcwLl6R+oKZuAstvZpXYgmYWWf+yvYj4+d+26CCbiNNfiAg7iHH9iAU5heHgbgAG5hYrk/gWkFYyN+5ttugkM4js9Yhre1KufiamnZZryr3c+v2voEU7AXZ+oEj7AC+3B6jO6KqpO4iajoUfC9yE0lb8ZIsBjP8R6z+hHMa2hPW74leFbeB6dHwX2sxp7ipLag3d8dxjFcxrY6wZFqQEfxqfL78oYhDiOcg6eYXP3vLHvRoyD+jooM+gXWl14OA879zGLPRdW7a9VixmWjp75oGUwckGG1JUnl1xHwDDg7kz1qJOhUkwVbWM3jZXlQ93znfcDvYkEBX1da/Ed1v7CL5CiJK16XzKmTdIOn9/F95tdzBqVpYiHZ00TSDf64ioxNJQH+mtewuA7JDSztUpLsibq05WEZ6Jd+ThhGkHdTC0ny6VVJ09nFcVvwdZDN2hB0SJK0UZITEyTSB4I32XRQMVFyEWnHLnxrsyBtFbTBavzm/yf4DTBuXhlUYzevAAAAAElFTkSuQmCC"/></a>
           </div>
           <div data-cart="Off" style="width: 32px; height: 32px; position: relative">
-            <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAATdJREFUSEvd1LErhVEYx/HPFQsGpGzKaLIw4S8QiygDCxnIaMDMH6AoxWYQJv4DZVEWg7LYSUIWGXhf3as37nvf897cujnjOc/5fZ/feZ7zFNR4FWqs738BPv7wuS7RH+sln+gvAffo+gkoGVjHKvYwl9PVCjawj+k0QA9u8YoOvOeAnGEYUzhIA8T7FxjAJI4CAc14QQPa8VwJsBRlv4lTjAUCxnGMcwyV7qT9gzY8FIM68RQA2cVs9KRrxTp8Xan00U4wGiCcDIk7sTeqwU2Wg/h8Aoc5AHfF7OPu+16VHDThEa3ow1UOWBAgDtrBfNHJDN7yQrKGXXfUqtdoCRT+pZcFiHVHsIxBNGaAqgIEJl8+LMRBfHMLC9jGYkIqbT+4yKXA5KRNm8Blk60bB1XXIdRB/QI+ASSvMBksNnrTAAAAAElFTkSuQmCC"/></a>
+            <a href="cart.html"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAATdJREFUSEvd1LErhVEYx/HPFQsGpGzKaLIw4S8QiygDCxnIaMDMH6AoxWYQJv4DZVEWg7LYSUIWGXhf3as37nvf897cujnjOc/5fZ/feZ7zFNR4FWqs738BPv7wuS7RH+sln+gvAffo+gkoGVjHKvYwl9PVCjawj+k0QA9u8YoOvOeAnGEYUzhIA8T7FxjAJI4CAc14QQPa8VwJsBRlv4lTjAUCxnGMcwyV7qT9gzY8FIM68RQA2cVs9KRrxTp8Xan00U4wGiCcDIk7sTeqwU2Wg/h8Aoc5AHfF7OPu+16VHDThEa3ow1UOWBAgDtrBfNHJDN7yQrKGXXfUqtdoCRT+pZcFiHVHsIxBNGaAqgIEJl8+LMRBfHMLC9jGYkIqbT+4yKXA5KRNm8Blk60bB1XXIdRB/QI+ASSvMBksNnrTAAAAAElFTkSuQmCC"/></a>
           </div>
         </div>
       </div>
