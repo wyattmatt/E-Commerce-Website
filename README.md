@@ -58,9 +58,9 @@ cd E-Commerce-Website
 
 ## 📸 Screenshots
 
-![Homepage](assets/images/homepage.png)
-![Login Page](assets/images/login.png)
-![Sign Up Page](assets/images/signup.png)
+![Homepage](assets/images/E-Commerce_HomePage.png)
+![Sign Up Page](assets/images/Sign_Up.png)
+![Wishlist Page](assets/images/Wishlist.png)
 
 ## 🌟 Future Improvements
 
